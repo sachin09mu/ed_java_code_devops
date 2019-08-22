@@ -18,7 +18,11 @@
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
-
+	<scm>
+		<connection>scm:git:git@github.com:sachin09mu/ed_java_code_devops</connection>
+		<developmentConnection>scm:git:git@github.com:sachin09mu/ed_java_code_devops</developmentConnection>
+		<url>git@github.com:sachin09mu/ed_java_code_devops</url>
+	</scm>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
